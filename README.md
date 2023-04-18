@@ -2,6 +2,7 @@
 
 A new Flutter project.
 pitam khatiwada
+Jitendra
 ## Getting Started
 
 This project is a starting point for a Flutter application.
